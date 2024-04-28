@@ -19,4 +19,4 @@ The architecture is based on three main components:
 <li>RL Agents: Implements three distinct RL algorithms to train and evaluate different trading strategies.
 </ol>
 
-For an in-depth explanation of the methodologies, architectures, and findings of this project, please refer to our detailed report available <a href=>here</a>.
+For an in-depth explanation of the methodologies, architectures, and findings of this project, please refer to our detailed report available <a href=https://github.com/rajtulluri/Automated-Stock-Trading-using-Reinforcement-Learning/blob/main/Automated_Stock_Trading_using_Reinforcement_Learning.pdf>here</a>.
